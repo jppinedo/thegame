@@ -1,0 +1,903 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"board",
+				"boardSpeed"
+			],
+			[
+				"client",
+				"clientY"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"is",
+				"isHighDensity"
+			],
+			[
+				"BACK",
+				"background-color"
+			],
+			[
+				"co",
+				"contacto"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"sli",
+				"slideCount"
+			],
+			[
+				"hea",
+				"head-logo"
+			],
+			[
+				"curr",
+				"currPostCount"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"list-t",
+				"list-style"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"logos",
+				"logosW"
+			],
+			[
+				"logo",
+				"logosH"
+			],
+			[
+				"lo",
+				"logosH"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"r_r",
+				"r_reel_left"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"cf",
+				"cfHeight"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"prev",
+				"prev_phone"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"backgro",
+				"background-repeat"
+			],
+			[
+				"sl_",
+				"sl_post"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"backgroud-",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sty",
+				"list-style"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"fixed",
+				"fixed_nav"
+			],
+			[
+				"w",
+				"winScroll"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"entry",
+				"entry-title"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"pass",
+				"passcheck"
+			],
+			[
+				"ema",
+				"emailcheck"
+			],
+			[
+				"ge",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "game.html",
+			"settings":
+			{
+				"buffer_size": 2338,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "game.css",
+			"settings":
+			{
+				"buffer_size": 2692,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "j_html5_3/game.html",
+			"settings":
+			{
+				"buffer_size": 2553,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "game2.js",
+			"settings":
+			{
+				"buffer_size": 16863,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*\n * Copyright (C) 2012 David Geary. This code is from the book\n * Core HTML5 Canvas, published by Prentice-Hall in 2012.\n *\n * License:\n *\n * Permission is hereby granted, free of charge, to any person \n * obtaining a copy of this software and associated documentation files\n * (the \"Software\"), to deal in the Software without restriction,\n * including without limitation the rights to use, copy, modify, merge,\n * publish, distribute, sublicense, and/or sell copies of the Software,\n * and to permit persons to whom the Software is furnished to do so,\n * subject to the following conditions:\n *\n * The above copyright notice and this permission notice shall be\n * included in all copies or substantial portions of the Software.\n *\n * The Software may not be used to create training material of any sort,\n * including courses, books, instructional videos, presentations, etc.\n * without the express written consent of David Geary.\n *\n * THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\n * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES\n * OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\n * NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT\n * HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\n * WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\n * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR\n * OTHER DEALINGS IN THE SOFTWARE.\n*/\n// snailBait constructor --------------------------------------------\n\nvar SnailBait =  function () {\n   this.canvas = document.getElementById('game-canvas'),\n   this.context = this.canvas.getContext('2d'),\n\n   // HTML elements........................................................\n   \n   this.fpsElement = document.getElementById('fps'),\n   this.toast = document.getElementById('toast'),\n\n   // Constants............................................................\n\n   this.LEFT = 1,\n   this.RIGHT = 2,\n   this.STATIONARY = 3,\n\n   // Constants are listed in alphabetical order from here on out\n   \n   this.BACKGROUND_VELOCITY = 42,\n   this.DEFAULT_TOAST_TIME = 1000,\n\n   this.PAUSED_CHECK_INTERVAL = 200,\n\n   this.PLATFORM_HEIGHT = 8,  \n   this.PLATFORM_STROKE_WIDTH = 2,\n   this.PLATFORM_STROKE_STYLE = 'rgb(0,0,0)',\n\n   // Platform scrolling offset (and therefore speed) is\n   // PLATFORM_VELOCITY_MULTIPLIER * backgroundOffset: The\n   // platforms move PLATFORM_VELOCITY_MULTIPLIER times as\n   // fast as the background.\n\n   this.PLATFORM_VELOCITY_MULTIPLIER = 4.35,\n\n   this.RUNNER_HEIGHT = 43,\n   \n   this.STARTING_BACKGROUND_VELOCITY = 0,\n\n   this.STARTING_PLATFORM_OFFSET = 0,\n   this.STARTING_BACKGROUND_OFFSET = 0,\n\n   this.STARTING_RUNNER_LEFT = 50,\n   this.STARTING_PAGEFLIP_INTERVAL = -1,\n   this.STARTING_RUNNER_TRACK = 1,\n   this.STARTING_RUNNER_VELOCITY = 0,\n\n   // Paused............................................................\n   \n   this.paused = false,\n   this.pauseStartTime = 0,\n   this.totalTimePaused = 0,\n\n   this.windowHasFocus = true,\n\n   // Track baselines...................................................\n\n   this.TRACK_1_BASELINE = 323,\n   this.TRACK_2_BASELINE = 223,\n   this.TRACK_3_BASELINE = 123,\n\n   // Fps indicator.....................................................\n   \n   this.fpsToast = document.getElementById('fps'),\n\n   // Images............................................................\n   \n   this.background  = new Image(),\n   this.runnerImage = new Image(),\n\n   // Time..............................................................\n   \n   this.lastAnimationFrameTime = 0,\n   this.lastFpsUpdateTime = 0,\n   this.fps = 60,\n\n   // Runner track......................................................\n\n   this.runnerTrack = this.STARTING_RUNNER_TRACK,\n\n   // Pageflip timing for runner........................................\n\n   this.runnerPageflipInterval = this.STARTING_PAGEFLIP_INTERVAL,\n   \n   // Scrolling direction...............................................\n\n   this.scrollingDirection = this.STATIONARY,\n   \n   // Translation offsets...............................................\n\n   this.backgroundOffset = this.STARTING_BACKGROUND_OFFSET,\n   this.platformOffset = this.STARTING_PLATFORM_OFFSET,\n\n   // Velocities........................................................\n\n   this.bgVelocity = this.STARTING_BACKGROUND_VELOCITY,\n   this.platformVelocity,\n\n   // Platforms.........................................................\n\n   this.platformData = [\n      // Screen 1.......................................................\n      {\n         left:      10,\n         width:     230,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'rgb(150,190,255)',\n         opacity:   1.0,\n         track:     1,\n         pulsate:   false,\n      },\n\n      {  left:      250,\n         width:     100,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'rgb(150,190,255)',\n         opacity:   1.0,\n         track:     2,\n         pulsate:   false,\n      },\n\n      {  left:      400,\n         width:     125,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'rgb(250,0,0)',\n         opacity:   1.0,\n         track:     3,\n         pulsate:   false\n      },\n\n      {  left:      633,\n         width:     100,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'rgb(80,140,230)',\n         opacity:   1.0,\n         track:     1,\n         pulsate:   false,\n      },\n\n      // Screen 2.......................................................\n               \n      {  left:      810,\n         width:     100,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'rgb(200,200,0)',\n         opacity:   1.0,\n         track:     2,\n         pulsate:   false\n      },\n\n      {  left:      1025,\n         width:     100,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'rgb(80,140,230)',\n         opacity:   1.0,\n         track:     2,\n         pulsate:   false\n      },\n\n      {  left:      1200,\n         width:     125,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'aqua',\n         opacity:   1.0,\n         track:     3,\n         pulsate:   false\n      },\n\n      {  left:      1400,\n         width:     180,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'rgb(80,140,230)',\n         opacity:   1.0,\n         track:     1,\n         pulsate:   false,\n      },\n\n      // Screen 3.......................................................\n               \n      {  left:      1625,\n         width:     100,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'rgb(200,200,0)',\n         opacity:   1.0,\n         track:     2,\n         pulsate:   false\n      },\n\n      {  left:      1800,\n         width:     250,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'rgb(80,140,230)',\n         opacity:   1.0,\n         track:     1,\n         pulsate:   false\n      },\n\n      {  left:      2000,\n         width:     100,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'rgb(200,200,80)',\n         opacity:   1.0,\n         track:     2,\n         pulsate:   false\n      },\n\n      {  left:      2100,\n         width:     100,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'aqua',\n         opacity:   1.0,\n         track:     3,\n      },\n\n\n      // Screen 4.......................................................\n\n      {  left:      2269,\n         width:     200,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: 'gold',\n         opacity:   1.0,\n         track:     1,\n      },\n\n      {  left:      2500,\n         width:     200,\n         height:    this.PLATFORM_HEIGHT,\n         fillStyle: '#2b950a',\n         opacity:   1.0,\n         track:     2,\n         snail:     true\n      },\n   ];\n};\n\n\n// snailBait.prototype ----------------------------------------------------\n\n\nSnailBait.prototype = {\n   // Drawing..............................................................\n\n   draw: function (now) {\n      this.setPlatformVelocity();\n      this.setTranslationOffsets();\n\n      this.drawBackground();\n      this.drawPlatforms();\n      this.drawRunner();\n   },\n\n   drawRunner: function () {\n      this.context.drawImage(\n         this.runnerImage,\n         this.STARTING_RUNNER_LEFT,\n         this.calculatePlatformTop(this.runnerTrack) - this.RUNNER_HEIGHT);\n   },\n   \n   drawPlatforms: function () {\n      var pd, top;\n\n      this.context.save();\n      this.context.translate(-this.platformOffset, 0);\n   \n      for (var i=0; i < this.platformData.length; ++i) {\n         pd = this.platformData[i];\n         top = this.calculatePlatformTop(pd.track);\n\n         this.context.lineWidth = this.PLATFORM_STROKE_WIDTH;\n         this.context.strokeStyle = this.PLATFORM_STROKE_STYLE;\n         this.context.fillStyle = pd.fillStyle;\n         this.context.globalAlpha = pd.opacity;\n\n         this.context.strokeRect(pd.left, top, pd.width, pd.height);\n         this.context.fillRect  (pd.left, top, pd.width, pd.height);\n      }\n      this.context.restore();\n   },\n   \n   setPlatformVelocity: function () {\n      this.platformVelocity = this.bgVelocity * this.PLATFORM_VELOCITY_MULTIPLIER; \n   },\n\n   setTranslationOffsets: function () {\n      this.setBackgroundTranslationOffset();\n      this.setPlatformTranslationOffset();\n   },\n\n   setBackgroundTranslationOffset: function () {\n      var offset = this.backgroundOffset + this.bgVelocity/this.fps;\n   \n      if (offset > 0 && offset < this.background.width) {\n         this.backgroundOffset = offset;\n      }\n      else {\n         this.backgroundOffset = 0;\n      }\n   },\n   \n   setPlatformTranslationOffset: function () {\n      this.platformOffset += this.platformVelocity / this.fps;\n   },\n   \n   drawBackground: function () {\n      this.context.save();\n   \n      this.context.globalAlpha = 1.0;\n      this.context.translate(-this.backgroundOffset, 0);\n   \n      // Initially onscreen:\n      this.context.drawImage(this.background, 0, 0,\n                        this.background.width, this.background.height);\n   \n      // Initially offscreen:\n      this.context.drawImage(this.background, this.background.width, 0,\n                        this.background.width+1, this.background.height);\n   \n      this.context.restore();\n   },\n   \n   calculateFps: function (now) {\n      var fps;\n\n      if (this.lastAnimationFrameTime === 0) {\n         this.lastAnimationFrameTime = now;\n         return 60;\n      }\n\n      fps = 1000 / (now - this.lastAnimationFrameTime);\n      this.lastAnimationFrameTime = now;\n   \n      if (now - this.lastFpsUpdateTime > 1000) {\n         this.lastFpsUpdateTime = now;\n         this.fpsElement.innerHTML = fps.toFixed(0) + ' fps';\n      }\n\n      return fps; \n   },\n   \n   calculatePlatformTop: function (track) {\n      var top;\n   \n      if      (track === 1) { top = this.TRACK_1_BASELINE; }\n      else if (track === 2) { top = this.TRACK_2_BASELINE; }\n      else if (track === 3) { top = this.TRACK_3_BASELINE; }\n\n      return top;\n   },\n\n   turnLeft: function () {\n      this.bgVelocity = -this.BACKGROUND_VELOCITY;\n   },\n\n   turnRight: function () {\n      this.bgVelocity = this.BACKGROUND_VELOCITY;\n   },\n   \n   // Sprites..............................................................\n \n   explode: function (sprite, silent) {\n      sprite.exploding = true;\n      this.explosionAnimator.start(sprite, true);  // true means sprite reappears\n   },\n\n   createPlatformSprites: function () {\n      var sprite, pd;  // Sprite, Platform data\n   \n      for (var i=0; i < this.platformData.length; ++i) {\n         pd = this.platformData[i];\n         sprite  = new Sprite('platform-' + i, this.platformArtist);\n\n         sprite.left      = pd.left;\n         sprite.width     = pd.width;\n         sprite.height    = pd.height;\n         sprite.fillStyle = pd.fillStyle;\n         sprite.opacity   = pd.opacity;\n         sprite.track     = pd.track;\n         sprite.button    = pd.button;\n         sprite.pulsate   = pd.pulsate;\n         sprite.power     = pd.power;\n\n         sprite.top = this.calculatePlatformTop(pd.track);\n   \n         this.platforms.push(sprite);\n      }\n   },\n\n   // Toast................................................................\n\n   splashToast: function (text, howLong) {\n      howLong = howLong || this.DEFAULT_TOAST_TIME;\n\n      toast.style.display = 'block';\n      toast.innerHTML = text;\n\n      setTimeout( function (e) {\n         if (snailBait.windowHasFocus) {\n            toast.style.opacity = 1.0; // After toast is displayed\n         }\n      }, 50);\n\n      setTimeout( function (e) {\n         if (snailBait.windowHasFocus) {\n            toast.style.opacity = 0; // Starts CSS3 transition\n         }\n\n         setTimeout( function (e) { \n            if (snailBait.windowHasFocus) {\n               toast.style.display = 'none'; \n            }\n         }, 480);\n      }, howLong);\n   },\n\n   // Pause................................................................\n\n   togglePaused: function () {\n      var now = +new Date();\n\n      this.paused = !this.paused;\n   \n      if (this.paused) {\n         this.pauseStartTime = now;\n      }\n      else {\n         this.lastAnimationFrameTime += (now - this.pauseStartTime);\n      }\n   },\n\n   // Animation............................................................\n\n   animate: function (now) { \n      if (snailBait.paused) {\n         setTimeout( function () {\n            requestNextAnimationFrame(snailBait.animate);\n         }, snailBait.PAUSED_CHECK_INTERVAL);\n      }\n      else {\n         snailBait.fps = snailBait.calculateFps(now); \n         snailBait.draw(now);\n         requestNextAnimationFrame(snailBait.animate);\n      }\n   },\n\n   // ------------------------- INITIALIZATION ----------------------------\n\n   start: function () {\n      this.turnRight();\n      snailBait.splashToast('Good Luck!', 2000);\n\n      requestNextAnimationFrame(snailBait.animate);\n   },\n\n   initializeImages: function () {\n      this.background.src = 'images/background_level_one_dark_red.png';\n      this.runnerImage.src = 'images/runner.png';\n   \n      this.background.onload = function (e) {\n         snailBait.start();\n      };\n   },\n};\n   \n// Event handlers.......................................................\n   \nwindow.onkeydown = function (e) {\n   var key = e.keyCode;\n\n   if (key === 80 || (snailBait.paused && key !== 80)) {  // 'p'\n      snailBait.togglePaused();\n   }\n   \n   if (key === 68 || key === 37) { // 'd' or left arrow\n      snailBait.turnLeft();\n   }\n   else if (key === 75 || key === 39) { // 'k'or right arrow\n      snailBait.turnRight();\n   }\n   else if (key === 74) { // 'j'\n      if (snailBait.runnerTrack === 3) {\n         return;\n      }\n\n      snailBait.runnerTrack++;\n   }\n   else if (key === 70) { // 'f'\n      if (snailBait.runnerTrack === 1) {\n         return;\n      }\n\n      snailBait.runnerTrack--;\n   }\n};\n\nwindow.onblur = function (e) {  // pause if unpaused\n   snailBait.windowHasFocus = false;\n   \n   if (!snailBait.paused) {\n      snailBait.togglePaused();\n   }\n};\n\nwindow.onfocus = function (e) {  // unpause if paused\n   var originalFont = snailBait.toast.style.fontSize;\n\n   snailBait.windowHasFocus = true;\n\n   if (snailBait.paused) {\n      snailBait.toast.style.font = '128px fantasy';\n\n      snailBait.splashToast('3', 500); // Display 3 for one half second\n\n      setTimeout(function (e) {\n         snailBait.splashToast('2', 500); // Display 2 for one half second\n\n         setTimeout(function (e) {\n            snailBait.splashToast('1', 500); // Display 1 for one half second\n\n            setTimeout(function (e) {\n               if ( snailBait.windowHasFocus) {\n                  snailBait.togglePaused();\n               }\n\n               setTimeout(function (e) { // Wait for '1' to disappear\n                  snailBait.toast.style.fontSize = originalFont;\n               }, 2000);\n            }, 1000);\n         }, 1000);\n      }, 1000);\n   }\n};\n\n// Launch game.........................................................\n\nvar snailBait = new SnailBait();\nsnailBait.initializeImages();\n",
+			"file": "j_html5_3/game.js",
+			"file_size": 15988,
+			"file_write_time": 130076765000000000,
+			"settings":
+			{
+				"buffer_size": 15988,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/flan/index.php",
+			"settings":
+			{
+				"buffer_size": 311,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/trabajos/clickhere_server/taphere.cl/index.html",
+		"/C/xampp/htdocs/snailbait/j-html5-game2/game.html",
+		"/C/xampp/htdocs/snailbait/j-html5-game2/game.js",
+		"/C/xampp/htdocs/thegame/walk_sprite.html",
+		"/C/xampp/htdocs/thegame/sprite_test.html",
+		"/C/xampp/htdocs/thegame/sprite_test3.html",
+		"/C/xampp/htdocs/snailbait/js/requestAnimationFrame.js",
+		"/C/xampp/htdocs/thegame/click.html",
+		"/C/xampp/htdocs/thegame/movement.html",
+		"/C/xampp/htdocs/thegame/move.html",
+		"/C/xampp/htdocs/thegame/index.html",
+		"/C/Users/JP/Downloads/TASTEE.Lethal.Tactics.Jurassic.Narc-CODEX/codex.nfo",
+		"/C/xampp/htdocs/thegame/tiles/common.js",
+		"/C/xampp/htdocs/thegame/tiles/square/no-scroll.html",
+		"/C/xampp/htdocs/thegame/tiles/square/no-scroll.js",
+		"/C/xampp/htdocs/thegame/tiles/index.html",
+		"/C/xampp/htdocs/thegame/mouseclick.html",
+		"/C/xampp/htdocs/thegame/mousefollow.html",
+		"/C/xampp/htdocs/descubre/css/main.css",
+		"/C/xampp/htdocs/descubre/index.php",
+		"/C/xampp/htdocs/descubre/single.php",
+		"/C/xampp/htdocs/descubre/results.php",
+		"/C/xampp/htdocs/descubre/js/datepicker-es.js",
+		"/C/Users/JP/AppData/Local/Temp/fz3temp-2/main.css",
+		"/C/xampp/htdocs/descubre/fluid/index.html",
+		"/C/xampp/htdocs/descubre/css/fluid-gallery.css",
+		"/C/xampp/htdocs/cmz/cmz_prototipo/contacto.php",
+		"/C/xampp/htdocs/descubre/fluid.html",
+		"/C/xampp/htdocs/cmz/cmz_prototipo/index.php",
+		"/C/xampp/htdocs/filmico/index.html",
+		"/C/Users/JP/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/JP/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/xampp/htdocs/descubre/config.json",
+		"/C/xampp/htdocs/descubre/skin/bullet-057.html",
+		"/C/xampp/htdocs/ensayo-inteligente/wp-content/themes/ensayo-inteligente/template-sus.php",
+		"/C/xampp/htdocs/filmico/css/freelancer.css",
+		"/C/xampp/htdocs/decubre/index.php",
+		"/C/xampp/htdocs/antoniosotomayor.cl/omega/header.php",
+		"/C/trabajos/pejerrey/RALEI/MOBILE/pocuro/amenities.html",
+		"/C/trabajos/pejerrey/RALEI/MOBILE/metroparkdos/departamentos.html",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/quienes_somos.php",
+		"/C/trabajos/pejerrey/RALEI/MOBILE/beneficios.html",
+		"/C/trabajos/pejerrey/RALEI/MOBILE/efficient.html",
+		"/C/trabajos/pejerrey/RALEI/MOBILE/teasesoramos.html",
+		"/C/trabajos/pejerrey/RALEI/MOBILE/metroparkdos/amenities.html",
+		"/C/trabajos/pejerrey/RALEI/MOBILE/indepepark/departamentos.html",
+		"/C/trabajos/pejerrey/RALEI/MOBILE/indepepark/amenities.html",
+		"/C/trabajos/pejerrey/RALEI/MOBILE/zenteno/departamentos.html",
+		"/C/trabajos/pejerrey/RALEI/MOBILE/zenteno/amenities.html",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/post_venta.php",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/public_html/public/web/corretaje.html",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/inversionista.php",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/beneficios.php",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/efficient.php",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/te_asesoramos.php",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/nunoa_metroparque_2/departamentos.php",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/nunoa_metroparque_2/amenities.php",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/independencia_park/departamentos.php",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/independencia_park/amenities.php",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/zenteno_efficient/departamentos.php",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/zenteno_efficient/amenities.php",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/pocuro/amenities.php",
+		"/C/trabajos/pejerrey/RALEI/ESCRITORIO/pocuro/ubicacion.php",
+		"/C/Users/JP/Downloads/bionic11_francoach (3).sql",
+		"/C/Users/JP/Downloads/bionic11_francoach (2).sql",
+		"/C/xampp/htdocs/motocoach/wp-content/themes/sportcenter-child/style.css",
+		"/C/xampp/htdocs/motocoach/wp-content/themes/sportcenter-child/functions.php",
+		"/C/xampp/htdocs/motocoach/wp-content/themes/sportcenter/functions.php",
+		"/C/xampp/htdocs/motocoach/wp-content/themes/sportcenter-child/single.php",
+		"/C/xampp/htdocs/motocoach/wp-content/themes/sportcenter/style.css",
+		"/C/xampp/htdocs/motocoach/wp-content/themes/sportcenter/css/dynamic_css.php",
+		"/C/Users/JP/Downloads/bionic11_francoach (1).sql",
+		"/C/xampp/htdocs/motocoach/wp-content/themes/sportcenter/single.php",
+		"/C/xampp/htdocs/motocoach/wp-content/themes/sportcenter-child/templates/single/content-single.php",
+		"/C/xampp/htdocs/motocoach/wp-content/plugins/sportcenter-shortcodes/shortcodes/post-slider.php",
+		"/C/xampp/htdocs/motocoach/wp-content/plugins/sportcenter-shortcodes/shortcodes.php",
+		"/C/xampp/htdocs/motocoach/wp-content/themes/sportcenter-child/post-slider-template.php",
+		"/C/xampp/htdocs/motocoach/wp-config-sample.php",
+		"/C/xampp/htdocs/motocoach/wp-content/mu-plugins/overrides.php",
+		"/C/xampp/htdocs/motocoach/wp-content/mu-plugins/post-slider-template.php",
+		"/C/xampp/htdocs/motocoach/wp-content/mu-plugins/post-slider.php",
+		"/C/xampp/htdocs/motocoach/wp-content/themes/sportcenter-child/shortcodes/post-slider.php",
+		"/C/xampp/htdocs/ctrl_it/index.html",
+		"/C/Users/JP/Downloads/bionicoc_patagonia (2).sql",
+		"/E/Crack/CPY.ini",
+		"/C/Users/JP/AppData/Local/Temp/Rar$DRa0.883/phonegap-2.9.1/lib/android/framework/.classpath",
+		"/C/trabajos/bionico/ctrl_it/app/www/js/index.js",
+		"/C/trabajos/bionico/ctrl_it/app_backups/backup5/config.xml",
+		"/C/trabajos/bionico/ctrl_it/app/node_modules/pako/dist/pako_inflate.js",
+		"/C/trabajos/bionico/ctrl_it/app/www/camera.html",
+		"/C/xampp/htdocs/2k12/prototipo/index.php",
+		"/C/xampp/htdocs/conamoralarte/index.php",
+		"/C/Users/JP/Downloads/No.Mans.Sky.v1.1.Foundation-CODEX/codex.nfo",
+		"/C/Users/JP/AppData/Local/Temp/Rar$DRa0.723/blackerzorg/style.css",
+		"/C/xampp/htdocs/ibahna3/wp-content/themes/ibahna3/style.css",
+		"/C/xampp/htdocs/ibahna3/wp-config - Copy.php",
+		"/C/xampp/htdocs/ibahna3/wp-content/themes/ibahna3/js/actions.js",
+		"/C/xampp/htdocs/ibahna3/wp-content/themes/ibahna3/index.php",
+		"/E/Crack/readme.txt",
+		"/C/Users/JP/Downloads/ignacip2_ib3.sql",
+		"/C/Users/JP/Downloads/bionic11_ibahna3.sql",
+		"/C/trabajos/ignaciobahna/we3/cv.html",
+		"/C/xampp/htdocs/ibahna3/wp-config.php",
+		"/C/Users/JP/Downloads/bionic11_antso.sql",
+		"/C/xampp/htdocs/cmz/wp-content/themes/cmz/page-home.php",
+		"/C/xampp/htdocs/cmz/wp-content/themes/cmz/page-clientes2.php",
+		"/C/xampp/htdocs/cmz/wp-content/themes/cmz/css/main.css",
+		"/C/xampp/htdocs/cmz/wp-content/themes/cmz/footer.php",
+		"/C/Web resources/jQuery.BlackAndWhite-master/ajax-demo.html",
+		"/C/xampp/htdocs/cmz/wp-content/themes/cmz/functions.php",
+		"/C/xampp/htdocs/cmz/wp-content/themes/cmz/header.php",
+		"/C/xampp/htdocs/cmz/wp-content/themes/cmz/js/actions.js",
+		"/C/Web resources/jQuery.BlackAndWhite-master/responsive.html",
+		"/C/xampp/htdocs/cmz/wp-content/themes/cmz/clientes.php",
+		"/C/Users/JP/Downloads/The.Dwarves-RELOADED/reloaded.nfo",
+		"/C/Users/JP/Downloads/Dragons.Dogma.Dark.Arisen-CODEX/codex.nfo",
+		"/C/Users/JP/Downloads/bionic11_cmz (4).sql",
+		"/C/xampp/htdocs/efitness/wp-config.php",
+		"/C/Users/JP/Downloads/bionic11_efit.sql",
+		"/C/Web resources/scrollup-master/demo/index.html",
+		"/C/xampp/htdocs/cmz/wp-config_compu_jp.php",
+		"/C/xampp/htdocs/cmz/wp-config.php",
+		"/C/xampp/htdocs/cmz/wp-config-sample.php",
+		"/C/Users/JP/Downloads/Mordheim.City.of.the.Damned.Undead-RELOADED/reloaded.nfo",
+		"/C/Users/JP/Downloads/3DMGAME-Divinity.Original.Sin.2.Alpha.v.3.0.5.530.Cracked-3DM/说明.txt",
+		"/C/xampp/htdocs/ibahna3/wp-content/themes/ibahna3/header.php",
+		"/C/xampp/htdocs/ibahna3/wp-content/themes/ibahna3/functions.php",
+		"/C/xampp/htdocs/ibahna3/wp-content/themes/ibahna3/single.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"STARTING_BACKGROUND_OFFSET",
+			"STARTING_RUNNER_TRACK",
+			"runnerTrack",
+			"background",
+			"bgVelocity",
+			"setBackgroundOffset",
+			"platformOffset",
+			"myPlayer",
+			"myRectangle",
+			"Rectangle",
+			"ball",
+			";\n",
+			"noppading",
+			">\n",
+			"past",
+			"post",
+			"LA",
+			"menu_departamentos",
+			"localhost/motocoach",
+			"LeafColorShortcodes",
+			"regplugins",
+			"LeafColorShortcodes",
+			"regplugins",
+			"featured-image",
+			".page-heading h1",
+			"css",
+			"Android Dependencies",
+			"bionicoc",
+			"Catálogo-Reacciones-exergónicas-Ignacio-Bahna-300x215.png",
+			"Catálogo-Fugaz-detener-un-acción-Ignacio-bahna-300x225",
+			"bionico.cl/ibahna3",
+			"Chaiten-Americas-reconstruccion-cartografic",
+			"bionico.cl/antoniosotomayor.cl",
+			"bionico.cl/efitness",
+			"bionic11",
+			"localhost",
+			"cmzabogados.cl",
+			"www.cmzabogados.cl",
+			"></",
+			"font",
+			"sha",
+			"bionicoc",
+			"url",
+			"ini",
+			"bMouseAcceleration=0\nbMouseAcceleration=0\nbMouseAcceleration",
+			"bMouseAcceleration=0\niAdapter",
+			"bMouseAcceleration",
+			"lag",
+			"rus",
+			"russ",
+			"localhost/instacrops",
+			"incrop",
+			"col-md-8",
+			"localhost/instacrops",
+			"jpg",
+			"port",
+			"portf",
+			"localhost/instacrops",
+			"man",
+			"conecta",
+			"En Instacrops entendemos que",
+			"conecta-2",
+			"blog",
+			":hover",
+			"a:hover",
+			"testimo",
+			"get_header",
+			"http://www.instacrops.com",
+			"http://www.bionico.cl/anam",
+			"http://www.bionico.cl/anam/web",
+			"http://anamariacampos.cl",
+			"localhost/ensayo-inteligente",
+			"ensayoin_enin",
+			"bionic11_enin",
+			"$_SESSION['cat']",
+			"ensayointeligente.cl",
+			"ensayoin_enin",
+			"ensayoin",
+			"bionic",
+			"ensayointeligente.cl",
+			"www.bionico.cl/ensayo-inteligente",
+			"submit",
+			"place",
+			"localhost",
+			".close",
+			"plan-send",
+			"length",
+			"localhost",
+			"h3",
+			"toLoad",
+			"loaded",
+			"');",
+			"page",
+			"#page-",
+			"console",
+			"localhost/daniela-cichero",
+			"localhost/nuestromatri",
+			"150",
+			"item",
+			"container",
+			"767px",
+			"max-width: 767px",
+			"(max-width: 767px) and (min-width: 480px)",
+			"media",
+			"page-heading-wrap",
+			"full-width",
+			"font-weight",
+			"Lato",
+			"Yanone Kaffeesatz",
+			"fadein",
+			"display",
+			"gallery-entry",
+			"c-cont",
+			"1em",
+			"rgba",
+			"background",
+			"font-f",
+			";}",
+			"frase",
+			"site",
+			"portafolio",
+			"setSizes",
+			"resi",
+			"social_icons",
+			"#animation",
+			"www.bionico.cl",
+			"../fonts2/",
+			"../fonts/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"player",
+			"myPlayer",
+			"Player",
+			"player",
+			"nopadding",
+			"www.bionico.cl/motocoach",
+			"bionic11",
+			"ignaciobahna.cl",
+			"antoniosotomayor.cl",
+			"efitness.cl",
+			"localhost/cmz",
+			"localhost",
+			"www.bionico.cl/insta",
+			"bionic11_insta",
+			"www.bionico.cl/insta",
+			"http://localhost/instacrops",
+			"http://localhost/webiv",
+			"http://www.bionico.cl/anam",
+			"ensayointeligente.cl",
+			"ensayoin_enin",
+			"localhost/ensayo-inteligente",
+			"ensayointeligente.cl",
+			"www.bionico.cl",
+			"www.danielacichero.com",
+			"www.nuestromatri.com",
+			"grid-item",
+			"photoset-grid-basic",
+			"Lato",
+			"localhost/bionico",
+			"localhost",
+			"../fonts/",
+			"../fonts2/",
+			"www.bionico.cl",
+			"localhost/bionico",
+			"www.2k12estudio.com",
+			"http://www.taller7.cl",
+			"www.bionico.cl/taller7",
+			"www.bionico.cl",
+			"www.bionico.cl/lavillafilms",
+			"www.bionico.cl"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "game.html",
+					"settings":
+					{
+						"buffer_size": 2338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1332,
+								1332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 712.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "game.css",
+					"settings":
+					{
+						"buffer_size": 2692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2488,
+								2488
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1188.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "j_html5_3/game.html",
+					"settings":
+					{
+						"buffer_size": 2553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1812,
+								1766
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "game2.js",
+					"settings":
+					{
+						"buffer_size": 16863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14471,
+								14471
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "j_html5_3/game.js",
+					"settings":
+					{
+						"buffer_size": 15988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10106,
+								10153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6933.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/xampp/htdocs/flan/index.php",
+					"settings":
+					{
+						"buffer_size": 311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
